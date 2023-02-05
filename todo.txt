@@ -1,0 +1,17 @@
+//add logging
+
+//unit testing
+
+//add redis caching - done
+
+//add roles to users - done
+
+//filtering - done
+
+//authZ - done
+Protect some routes from non admin users - done
+
+//pagination - done
+
+//dockerize - done
+
